@@ -33,6 +33,8 @@ int main() {
     cout << "o maior valor para uma variavel long int eh: "
     << menorValorLong << endl;
 
+    
+
     cout << "\n";
 
     return 0;
