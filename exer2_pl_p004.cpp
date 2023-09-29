@@ -1,6 +1,6 @@
-//Para aramezanar um caracter especial foi necessario 
-//adicionar a biblioteca cstring ao programa. 
-//Dessa forma, o comando size_t, bem como strlen ficou disponível.
+/*Para aramezanar um caracter especial foi necessario 
+adicionar a biblioteca cstring ao programa. 
+Dessa forma, o comando size_t, bem como strlen ficou disponível.*/
 
 #include <iostream>
 #include <iomanip>
