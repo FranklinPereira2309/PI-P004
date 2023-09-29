@@ -1,4 +1,4 @@
-/*exercício 2*/
+/*exercício 2_*/
 #include <iostream>
 #include <limits>
 

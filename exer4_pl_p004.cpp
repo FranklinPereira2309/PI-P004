@@ -1,9 +1,9 @@
-/*f. As variaveis de maior precisao ocupao mais espaço de memoria.
+/* As variaveis de maior precisao ocupao mais espaço de memoria.
 Em outras palavras, demandam maior processamento.*/
 
 #include <iostream>
 #include <limits>
-#include <cmath>  
+#include <cmath> 
 #include <iomanip>
 
 using namespace std;
